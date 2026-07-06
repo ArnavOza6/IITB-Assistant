@@ -4,5 +4,5 @@ groq
 pypdf2
 sentence-transformers
 python-multipart
-python-doten
+python-dotenv
 pysqlite3-binary
