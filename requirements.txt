@@ -1,7 +1,8 @@
 streamlit
-chromadb
+chromadb==<1.5.9>
 groq
 pypdf2
 sentence-transformers
 python-multipart
 python-dotenv
+pysqlite3-binary
